@@ -1,0 +1,10 @@
+{
+  "name": "vidbitfuture/vbf",
+  "description": "Classes for working with the VidBitFuture API.",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "VidBitFuture\\VBF\\": "src/"
+    }
+  }
+}

@@ -1,5 +1,5 @@
 # VBF Live Sub Counter
-## A live subcount built for VidBitFuture by geekyTV, AM, and Blake.
+A live sub count built for VidBitFuture by geekyTV, AM, and Blake.
 
 ### So... what does it do?
 It gives a live check on how many subscribers a user has. Duh.
@@ -14,3 +14,9 @@ Because you could make stuff. And see your stats. Just about it!
 
 ### Developers' Note:
 Enjoy the live sub counter and help improve onto it!
+
+## Classes
+
+[`VidBitFuture\VBF\Channel`](./src/Channel.php):
+
+This is the main channel class. It allows you to get meta data about a channel.
